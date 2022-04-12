@@ -4,7 +4,8 @@
   "description": "**Reference:** [Barger, R. 3 Feb 2021. How to Create a React App with a Node Backend: The Complete Guide. freeCodeCamp.](https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /server/index.js"
   },
   "repository": {
     "type": "git",
